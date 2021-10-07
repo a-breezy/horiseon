@@ -82,18 +82,19 @@ footer h2 {
 }
 
 .content {
-    width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin: 20px 20px;
 }
 
 .what-we-do {
-    display: inline;
+    width: 75%;
+    display: inline-block;
+    height: 100%;
 }
 
 .benefits {
-    margin-right: 20px;
-    display: inline;
+    display: inline-block;
+    vertical-align: center;
     padding: 20px;
     clear: both;
     float: right;
@@ -105,12 +106,12 @@ footer h2 {
     color: #ffffff;
 }
 
-.benefit h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
