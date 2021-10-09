@@ -13,4 +13,6 @@ Refractoring mock up for HoriSEOn (get the pun there?) Search Engine Optimizatio
 1. Moved reused styles into parent themes to get rid of unnecessary excess code
 2. Reformatted for changes in html stated above.
 
+## HoriSeon frontpage can be found [here](https://a-breezy.github.io/horiseon/ 'preview of horiseon frontpage')
+
 ![Image of ](horiseon-preview.png "Preview of the HoriSeon front page")
